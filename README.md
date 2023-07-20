@@ -19,3 +19,8 @@ For the election data I worked backwards from my working budget main.py.
 https://www.w3schools.com/python/python_sets.asp
 https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/#:~:text=Why%20the%20%22TypeError%3A%20'int,an%20integer%20as%20an%20array
 https://github.com/trevoriwen/Election_Analysis/blob/main/PyPoll_Challenge.py
+https://stackoverflow.com/questions/4841436/what-exactly-does-do
+https://www.w3schools.com/python/ref_func_max.asp
+https://www.entechin.com/how-to-find-the-max-value-in-a-dictionary-in-python/#:~:text=You%20can%20easily%20find%20the,it%20returns%20the%20largest%20key.
+https://www.programiz.com/python-programming/methods/built-in/max
+https://stackoverflow.com/questions/40492960/how-to-indent-format-a-selection-of-code-in-visual-studio-code
