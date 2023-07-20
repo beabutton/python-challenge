@@ -4,14 +4,15 @@ EDIT: My internet went down I have a tech coming tomorrow at 8am my assignment i
 
 For the budget analysis I utalized quite a few resources when AskBCS was unresponsive. I compared a few different solutions to build backwards something the worked nicely. I ran into a few issues with my txt file but was able to resolve them with the help of a few forum searches and trial and error. 
 
-https://gitlab.com/laurelstewart/python-challenge/-/blob/master/PyBank/main.py
-https://github.com/cantugabriela/Python-Challenge/blob/master/PyBank/main.py
+
 https://github.com/Elliott-dev/Python-Challenge/blob/main/Instructions/PyBank/Pybank%20HW.py
 https://www.datacamp.com/tutorial/git-push-pull
 https://www.pythonforbeginners.com/files/with-statement-in-python
 https://realpython.com/python-csv/
+https://gitlab.com/laurelstewart/python-challenge/-/blob/master/PyBank/main.py
 https://stackoverflow.com/questions/57544817/how-to-break-text-into-paragraphs-python#:~:text=Use%20linebreak%20command%20%5Cn%20several,%22%22%22)
 https://stackoverflow.com/questions/18529323/permission-denied-error-while-writing-to-a-file-in-python
+https://github.com/cantugabriela/Python-Challenge/blob/master/PyBank/main.py
 
 
 For the election data I worked backwards from my working budget main.py.
